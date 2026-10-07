@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+body {
+    background-color: #B88305;
+}
+
+h1 {
+    color: #073CB8;
+    background-color: #a9c3ff;
+}
+
+h2 {
+    background-color: white;
+    color: cadetblue;
+}
